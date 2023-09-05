@@ -1,5 +1,8 @@
 # String Practice:
 
+333
+
+
 # Create a Python program that asks the user to input a sentence.
 # Print the first and last letter of the sentence.
 # Convert the entire sentence to uppercase and print the result.
